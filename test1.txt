@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 129A-9AF3
+
+ Directory of E:\my project
+
+27-03-2022  22:05    <DIR>          .
+27-03-2022  22:05    <DIR>          ..
+27-03-2022  22:05                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  80,558,616,576 bytes free
